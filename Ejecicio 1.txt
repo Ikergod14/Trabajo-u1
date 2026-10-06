@@ -1,0 +1,15 @@
+Elementos: 			Que hace:
+	
+Títulos 			Mostrar los titulares, los tipos de deporte, y cosas básicas de una web
+
+subtítulos			Mostrar horarios de partidos, informar de los titulares explicándolos 
+
+Formas geométricas		Dar un diseño mas atractivo a la página 
+
+iconos				Para las interacciones con la página web
+
+vídeos				Para que los usuarios lo vean 
+
+imágenes			Para que la página sea más visual 
+
+
